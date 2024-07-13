@@ -2,4 +2,4 @@
 
 ## lists
 
-<img src="https://github.com/SpecialCyCi/AndroidResideMenu/raw/master/1.png" width="320" height="568" />
+<img src="https://github.com/Sunresh1/sdl/blob/main/Copy%20of%20induced_effect.png" width="320" height="568" />
